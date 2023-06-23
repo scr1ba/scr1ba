@@ -2,14 +2,21 @@
 <h1 align="left">🛠️ Projects</h1>
 
 <ul>
+<a href="https://github.com/scr1ba/ansible-container" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=scr1ba&repo=ansible-container&theme=tokyonight" />
+</a>
 <a href="https://github.com/scr1ba/jenkins-utilities" target="_blank">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=scr1ba&repo=jenkins-utilities&theme=tokyonight" />
-    </a>
-    <a href="https://github.com/scr1ba/python-placeholder" target="_blank">
+</a>
+<a href="https://github.com/scr1ba/python-placeholder" target="_blank">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=scr1ba&repo=python-placeholder&theme=tokyonight" />
-    </a>
+</a>
+      
   <li><strong>jenkins-utilities:</strong> A collection of Groovy scripts for Jenkins pipelines, from simple git repo fetches to tagging containers and pushing to a registry. Includes functions that allow for the dynamic generation of pipelines, complete with customizable steps, parameters, and stages.</li>
+  
   <li><strong>python-placeholder:</strong> A barebones Flask app with a Dockerfile that allows for custom address and port settings when running the Flask app by setting the HOST and PORT env vars. Serves as a dummy repo for testing the jenkins-utilities.</li>
+  
+<li><strong>ansible-container:</strong> A container to run Ansible playbooks specifying the config and hosts to run against.</li>
 </ul>
 
 <div align="left">
